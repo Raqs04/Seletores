@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    display: inline-block;
+    border: 1px solid white;
+    width: 100px;
+    height: 100px;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.vermelho:hover {
+    background-color: tomato;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.azul:hover {
+    background-color: cornflowerblue;
+}
+
+.verde {
+    background-color: green;
+}
+
+.verde:hover {
+    background-color: forestgreen;
+}
+
+.amarelo {
+    background-color: yellow;
+}
+
+.amarelo:hover {
+    background-color: khaki;
+}
+
+.borda {
+    border: 2px solid black;
+}
